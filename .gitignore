@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model weights
+weights/
+*.pt
+
+# Videos and outputs
+demo_videos/input/
+demo_videos/output/
+results/
+
+# macOS
+.DS_Store
