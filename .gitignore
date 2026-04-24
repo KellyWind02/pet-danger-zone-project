@@ -7,8 +7,6 @@ weights/
 *.pt
 
 # Videos and outputs
-demo_videos/input/
-demo_videos/output/
 results/
 
 # macOS
